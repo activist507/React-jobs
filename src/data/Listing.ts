@@ -1,9 +1,4 @@
-interface Company {
-  name: string;
-  description: string;
-  contactEmail: string;
-  contactPhone: string;
-}
+import { type Company } from "./company";
 
 export interface Listing {
   id: string;
