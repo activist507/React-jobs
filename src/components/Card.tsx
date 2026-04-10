@@ -6,9 +6,9 @@ interface Props{
   margin?: string;
 }
 
-const Card = ( { children, bg = 'bg-gray-100', margin }: Props ) => {
+const Card = ( { children, bg = 'bg-gray-100' }: Props ) => {
   return (
-    <div className={`${bg} p-6 rounded-lg shadow-md mt-${margin}`}> { children }</div>
+    <div className={`${bg} p-6 rounded-lg shadow-md mt-4`}> { children }</div>
   )
 }
 

@@ -7,5 +7,5 @@ export interface Listing {
   description: string;
   location: string;
   salary: string;
-  company?: Company;
+  company: Company;
 }

@@ -1,5 +1,5 @@
 {
-  "jobs":[
+  "jobs": [
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -20,12 +20,12 @@
       "type": "Full-Time",
       "location": "Miami, FL",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "salary": "$70K - $80K",
+      "salary": "$60K - 70K",
       "company": {
         "name": "Veneer Solutions",
         "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
         "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
+        "contactPhone": "111-1111-1111"
       }
     },
     {
@@ -83,6 +83,49 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "lTpyE6ygUz8",
+      "title": "React Engineer",
+      "type": "Full-Time",
+      "description": "You will interact with the senior and junior developer in our firm.",
+      "location": "Lagos, NG",
+      "salary": "$125K - 150K",
+      "company": {
+        "name": "AppWorld",
+        "description": "We train the elite, bringing them from zero level into mastery level",
+        "contactEmail": "appworld@gmail.com",
+        "contactPhone": "08104498676"
+      }
+    },
+    {
+      "id": "-Q0Qd4NE34M",
+      "title": "React Intern",
+      "type": "Internship",
+      "description": "You will interact with the senior and junior developer in our firm.",
+      "location": "Abuja, NG",
+      "salary": "Under $50K",
+      "company": {
+        "name": "AppWorld",
+        "description": "We train the elite, bringing them from zero level into mastery level",
+        "contactEmail": "appworld@gmail.com",
+        "contactPhone": "08104498676"
+      }
+    },
+    {
+      "id": "N_6m8y82RTc",
+      "title": "React Developer Senior Level",
+      "type": "Part-Time",
+      "description": "You will be in charge of the main react code base.",
+      "location": "Port Harcourt, Ng",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "AppWorld",
+        "description": "We train the elite, bringing them from zero level into mastery level",
+        "contactEmail": "appworld@gmail.com",
+        "contactPhone": "08104498676"
+      }
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
